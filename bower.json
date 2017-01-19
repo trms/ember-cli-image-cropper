@@ -6,6 +6,6 @@
     "ember-qunit-notifications": "0.1.0"
   },
   "devDependencies": {
-    "cropper": "^2.3.2"
+    "cropper": "3.0.0-alpha"
   }
 }
