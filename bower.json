@@ -6,6 +6,6 @@
     "ember-qunit-notifications": "0.1.0"
   },
   "devDependencies": {
-    "cropper": "3.0.0-alpha"
+    "cropper": "trms/cropper#master-bugfix-response-error"
   }
 }
